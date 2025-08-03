@@ -10,7 +10,7 @@ All projects were built using tools such as **R**, **SQL**, **PostgreSQL**, **RM
 
 | Project | Description | Tools | Repository |
 |--------|-------------|-------|------------|
-| 🛠 **Data Modeling of Global Depression Prevalence Data** | Cleaned depression prevalence data with R. Designed a relational data model with PostgresSQL and populated tables with relevant data. | R, PostgreSQL, SQL, ERD tools | [View Repo]() |
+| 🛠 **Data Modeling of Global Depression Prevalence Data** | Cleaned depression prevalence data with R. Designed a relational data model with PostgresSQL and populated tables with relevant data. | R, PostgreSQL, SQL, ERD tools | [View Repo](https://github.com/MathisWo/Data-Modeling-of-Global-Depression-Prevalence-Data/tree/main) |
 
 ---
 
