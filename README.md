@@ -19,8 +19,8 @@ All projects were built using tools such as **R**, **SQL**, **PostgreSQL**, **RM
 
 - Apply data analytics skills to real-world datasets  
 - Build relationnal and dimensional data models
-- Communicate insights effectively using visualizations  
-- Document analytical processes clearly and concisely  
+- Communicate insights effectively using reports and visualizations  
+- Document analytical processes clearly  
 
 ---
 
