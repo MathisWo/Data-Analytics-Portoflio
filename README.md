@@ -18,7 +18,7 @@ All projects were built using tools such as **R**, **SQL**, **PostgreSQL**, **RM
 ## 🎯 Goals of This Portfolio
 
 - Apply data analytics skills to real-world datasets  
-- Build relationnal and dimensional data models
+- Build relational and dimensional data models
 - Communicate insights effectively using reports and visualizations  
 - Document analytical processes clearly  
 
